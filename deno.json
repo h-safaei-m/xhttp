@@ -1,0 +1,4 @@
+{
+  "name": "avaco-deno",
+  "entrypoint": "main.ts"
+}
